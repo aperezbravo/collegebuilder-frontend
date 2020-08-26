@@ -1,0 +1,1000 @@
+ 1170  ifconfig
+ 1171  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1172  clear
+ 1173  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1174  clear
+ 1175  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1176  wd
+ 1177  clear
+ 1178  ls
+ 1179  pwd
+ 1180  ifconfig
+ 1181  clear
+ 1182  ls
+ 1183  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1184  lear
+ 1185  clear
+ 1186  ls
+ 1187  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1188  clear
+ 1189  ls
+ 1190  clear
+ 1191  ls
+ 1192  cd coll
+ 1193  cd college_builder/
+ 1194  ls
+ 1195  clear
+ 1196  ls
+ 1197  cd ..
+ 1198  ls
+ 1199  cd client/
+ 1200  clear
+ 1201  ls
+ 1202  pwfd
+ 1203  pwd
+ 1204  ls
+ 1205  npm run 
+ 1206  clear
+ 1207  ls
+ 1208  npm start
+ 1209  clear
+ 1210  pwd
+ 1211  cd ../
+ 1212  clear
+ 1213  ls
+ 1214  clear
+ 1215  cd client/
+ 1216  clear
+ 1217  ls
+ 1218  cd //
+ 1219  pwd
+ 1220  cd ~
+ 1221  clear
+ 1222  ls
+ 1223  cd client/
+ 1224  npm start
+ 1225  clear
+ 1226  ls
+ 1227  cd ..
+ 1228  ls
+ 1229  cd college_builder/
+ 1230  ls
+ 1231  npm start
+ 1232  clear
+ 1233  ls
+ 1234  cd //
+ 1235  cd ~
+ 1236  clear
+ 1237  ls
+ 1238  cd collg_bldr/
+ 1239  la
+ 1240  npm start
+ 1241  clear
+ 1242  cd ..
+ 1243  l
+ 1244  cd web_final/
+ 1245  ls
+ 1246  pwd
+ 1247  ls
+ 1248  cd ..
+ 1249  ls
+ 1250  cd web_app_fullstack/
+ 1251  ls
+ 1252  cd ..
+ 1253  clear
+ 1254  ls
+ 1255  cd collg_bldr/
+ 1256  ls
+ 1257  npm start
+ 1258  clear
+ 1259  cd ..
+ 1260  cd college_builder/
+ 1261  ls
+ 1262  npm start
+ 1263  cd ..
+ 1264  ls
+ 1265  cd client/
+ 1266  npm start
+ 1267  clear
+ 1268  ls
+ 1269  cd ..
+ 1270  clear
+ 1271  ls
+ 1272  clear
+ 1273  ls
+ 1274  clear
+ 1275  ls
+ 1276  clear
+ 1277  ls
+ 1278  cd college_builder/
+ 1279  ls
+ 1280  cd starter_code/
+ 1281  ls
+ 1282  cd build/
+ 1283  ls
+ 1284  clear
+ 1285  ls
+ 1286  cd ..
+ 1287  l
+ 1288  cd ~/client/
+ 1289  ls
+ 1290  clea
+ 1291  clear
+ 1292  ls
+ 1293  cd ..
+ 1294  l
+ 1295  cd twitter-feed/
+ 1296  ls
+ 1297  npm start
+ 1298  clear
+ 1299  ls
+ 1300  pwd
+ 1301  cd ..
+ 1302  l
+ 1303  cd my-first-react-app/
+ 1304  ls
+ 1305  npm start
+ 1306  pwd
+ 1307  cd ..
+ 1308  ls
+ 1309  cd college_builder/
+ 1310  ls
+ 1311  npm start
+ 1312  clear
+ 1313  pwd
+ 1314  ls
+ 1315  cd starter_code/
+ 1316  ls
+ 1317  cd ..
+ 1318  l
+ 1319  cd src/
+ 1320  ls
+ 1321  cd ..
+ 1322  l
+ 1323  npm start
+ 1324  cd ..
+ 1325  ls
+ 1326  clear
+ 1327  ls
+ 1328  cd client/
+ 1329  ls
+ 1330  npm start
+ 1331  clear
+ 1332  ls
+ 1333  cd src/
+ 1334  ls
+ 1335  vim App.js 
+ 1336  pef
+ 1337  pwd
+ 1338  cd ~/college_builder/
+ 1339  ls
+ 1340  cd starter_code/
+ 1341  ls
+ 1342  cd build/
+ 1343  ls
+ 1344  clear
+ 1345  ls
+ 1346  cd ..
+ 1347  ls
+ 1348  clear
+ 1349  ls
+ 1350  clear
+ 1351  ls
+ 1352  pwd
+ 1353  ls
+ 1354  cd ~/c;ie
+ 1355  cd ~
+ 1356  cd client/
+ 1357  ls
+ 1358  clear
+ 1359  pwd
+ 1360  ls
+ 1361  npm start
+ 1362  clear
+ 1363  ls
+ 1364  cd src/
+ 1365  clear
+ 1366  ls
+ 1367  vim App.js 
+ 1368  clear
+ 1369  ls
+ 1370  clear
+ 1371  ls
+ 1372  clear
+ 1373  pwd
+ 1374  ls
+ 1375  git status
+ 1376  clear
+ 1377  ls
+ 1378  pwd
+ 1379  ls
+ 1380  pwd
+ 1381  clear
+ 1382  ls
+ 1383  clear
+ 1384  ls
+ 1385  clear
+ 1386  history
+ 1387  clear
+ 1388  ls
+ 1389  vim App.js 
+ 1390  ls
+ 1391  cd client/
+ 1392  clear
+ 1393  ls
+ 1394  npm start
+ 1395  ls
+ 1396  clear
+ 1397  ls
+ 1398  clear
+ 1399  ls
+ 1400  history
+ 1401  clear
+ 1402  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1403  clear
+ 1404  ls
+ 1405  cd client/
+ 1406  ls
+ 1407  cleaar
+ 1408  clear
+ 1409  npm start
+ 1410  clear
+ 1411  ls
+ 1412  clear
+ 1413  ls
+ 1414  pwfd
+ 1415  pwd
+ 1416  ls
+ 1417  cd src/
+ 1418  ls
+ 1419  vim App.js 
+ 1420  clear
+ 1421  ls
+ 1422  clear
+ 1423  ls
+ 1424  pwd
+ 1425  ls
+ 1426  cd ~
+ 1427  clear
+ 1428  ls
+ 1429  clear
+ 1430  ls
+ 1431  cd collg_bldr/
+ 1432  clear
+ 1433  ls
+ 1434  npm start
+ 1435  clear
+ 1436  ls
+ 1437  clear
+ 1438  ls
+ 1439  clear
+ 1440  ls
+ 1441  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1442  clear
+ 1443  ls
+ 1444  clear
+ 1445  ls
+ 1446  cd client/
+ 1447  ls
+ 1448  clear
+ 1449  ls
+ 1450  npm start
+ 1451  clear
+ 1452  history
+ 1453  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1454  clear
+ 1455  pwd
+ 1456  ls
+ 1457  cd client/
+ 1458  clear
+ 1459  ls
+ 1460  npm start 
+ 1461  flkfdjlkfdjlkfjl
+ 1462  clear
+ 1463  ls
+ 1464  clear
+ 1465  ls
+ 1466  clear
+ 1467  ls
+ 1468  cd college_builder/
+ 1469  clear
+ 1470  ls
+ 1471  git status
+ 1472  clear
+ 1473  pwd
+ 1474  git pull
+ 1475  pwd
+ 1476  clear
+ 1477  pwd
+ 1478  ls
+ 1479  cd starter_code/
+ 1480  clear
+ 1481  ls
+ 1482  sudo cp -r ~/client/build ./
+ 1483  cp -r ~/client/build ./
+ 1484  clear
+ 1485  ls
+ 1486  l
+ 1487  clear
+ 1488  ls
+ 1489  git add build
+ 1490  git commit -m "removed google maps"
+ 1491  git push
+ 1492  clear
+ 1493  ls
+ 1494  cd client/
+ 1495  clear
+ 1496  ls
+ 1497  npm start
+ 1498  clear
+ 1499  ls
+ 1500  pwd
+ 1501  npm start
+ 1502  clear
+ 1503  ls
+ 1504  cd src/
+ 1505  clear
+ 1506  ls
+ 1507  vim App.js 
+ 1508  clear
+ 1509  ls
+ 1510  cd components/
+ 1511  ls
+ 1512  vim SignUp.js 
+ 1513  clear
+ 1514  ls
+ 1515  vim tweet.js 
+ 1516  clear
+ 1517  ls
+ 1518  vim Wall.js 
+ 1519  clear
+ 1520  tmux ls
+ 1521  clear
+ 1522  ls
+ 1523  pwd
+ 1524  ls
+ 1525  vim Wall.js 
+ 1526  clear
+ 1527  ls
+ 1528  cd ~/Desktop/
+ 1529  clear
+ 1530  ls
+ 1531  mkdir phone_music
+ 1532  clear
+ 1533  ls
+ 1534  cd ~/Clie
+ 1535  cd ~/client/
+ 1536  cler
+ 1537  clear
+ 1538  ls
+ 1539  vim src/
+ 1540  cd src/
+ 1541  clear 
+ 1542  ls
+ 1543  clear
+ 1544  ls
+ 1545  pwd
+ 1546  ls
+ 1547  clear
+ 1548  ls
+ 1549  clear
+ 1550  ls
+ 1551  vim App.js
+ 1552  cd components/
+ 1553  ls
+ 1554  clear
+ 1555  ls
+ 1556  vim Wall.
+ 1557  ls
+ 1558  rm Wall.
+ 1559  vim Wall.js 
+ 1560  clear
+ 1561  ls
+ 1562  vim tweet.js 
+ 1563  vim Wall.js 
+ 1564  clear
+ 1565  ls
+ 1566  vim Wall.js 
+ 1567  ls
+ 1568  vim Wall.js 
+ 1569  clear
+ 1570  ls
+ 1571  vim Wall.
+ 1572  vim Wall.js 
+ 1573  clear
+ 1574  ls
+ 1575  pwd
+ 1576  clear
+ 1577  cd client/
+ 1578  cd src/
+ 1579  clear
+ 1580  ls
+ 1581  cleae
+ 1582  clear
+ 1583  ls
+ 1584  vim App.js 
+ 1585  pwd
+ 1586  ls
+ 1587  cd ..
+ 1588  ls
+ 1589  pwd
+ 1590  npm start
+ 1591  clear
+ 1592  ls
+ 1593  pwd
+ 1594  npm run build
+ 1595  tmux kill-session
+ 1596  tmux ls 
+ 1597  tmux
+ 1598  clear
+ 1599  pwd
+ 1600  tmux attachpsession
+ 1601  tmux attach-session
+ 1602  clear
+ 1603  ls
+ 1604  ls
+ 1605  clear
+ 1606  history
+ 1607  clear
+ 1608  ls
+ 1609  clear
+ 1610  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1611  clear
+ 1612  ls
+ 1613  clear
+ 1614  ssh pi@192.168.254.200
+ 1615  clear
+ 1616  ls
+ 1617  cd client/
+ 1618  clear
+ 1619  ls
+ 1620  pwd
+ 1621  ls
+ 1622  cd src/
+ 1623  ls
+ 1624  cd components/
+ 1625  ls
+ 1626  vim general.css 
+ 1627  clear
+ 1628  ls
+ 1629  vim Searx.js 
+ 1630  cd ~/college_builder/
+ 1631  s
+ 1632  ls
+ 1633  clear
+ 1634  ls
+ 1635  pwd
+ 1636  cd starter_code/
+ 1637  ls
+ 1638  rm -r build
+ 1639  git rm -r build
+ 1640  git commit -m "clean build"
+ 1641  clear
+ 1642  ls
+ 1643  git push
+ 1644  clear
+ 1645  pwd
+ 1646  ls
+ 1647  git add build
+ 1648  git commit -m "dropdown autocomplete width fix"
+ 1649  git push
+ 1650  clear
+ 1651  ls
+ 1652  history
+ 1653  clear
+ 1654  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1655  clear
+ 1656  ls
+ 1657  clear
+ 1658  cd client/
+ 1659  l
+ 1660  ls
+ 1661  cd src/
+ 1662  l
+ 1663  clear
+ 1664  ls
+ 1665  cd components/
+ 1666  ls
+ 1667  vim Searx.js
+ 1668  clear
+ 1669  ls
+ 1670  vim Searx.js
+ 1671  clear
+ 1672  ls
+ 1673  clear
+ 1674  ls
+ 1675  cd ~/college_builder/
+ 1676  ls
+ 1677  cd starter_code/
+ 1678  ls
+ 1679  rm -r build/
+ 1680  clear
+ 1681  git rm -r build
+ 1682  clear
+ 1683  ls
+ 1684  git commit -m "build update clean"
+ 1685  git push
+ 1686  clear
+ 1687  ls
+ 1688  pwd
+ 1689  cd ~/client/
+ 1690  cp -r build ~/college_builder/starter_code/
+ 1691  clear
+ 1692  cd ~/college_builder/
+ 1693  ls
+ 1694  cd starter_code/
+ 1695  ls
+ 1696  clear
+ 1697  ls
+ 1698  git add build
+ 1699  git commit -m "fixed search bar fixed positioning"
+ 1700  git push
+ 1701  clear
+ 1702  ls
+ 1703  clear
+ 1704  ls
+ 1705  
+ 1706  b
+ 1707  rr
+ 1708  clear
+ 1709  ls
+ 1710  cd ~/client/src/
+ 1711  ls
+ 1712  cd components/
+ 1713  ls
+ 1714  vim Sear
+ 1715  vim Searx.js 
+ 1716  clear
+ 1717  ls
+ 1718  vim Nav.js 
+ 1719  vim general.css 
+ 1720  clear
+ 1721  ls
+ 1722  vim Searx.js 
+ 1723  clear
+ 1724  pwd
+ 1725  lss
+ 1726  la
+ 1727  ls
+ 1728  pwd
+ 1729  cd ../../
+ 1730  l
+ 1731  npm run build
+ 1732  clear
+ 1733  ls
+ 1734  cp -r build ~/college_builder/starter_code/
+ 1735  pwd
+ 1736  ls
+ 1737  clear
+ 1738  cd src/
+ 1739  ls
+ 1740  cd components/
+ 1741  ls
+ 1742  clear
+ 1743  ls
+ 1744  vim Searx.js 
+ 1745  cd client/
+ 1746  clear
+ 1747  ls
+ 1748  cd src/
+ 1749  clear
+ 1750  ls
+ 1751  cd components/
+ 1752  ls
+ 1753  clear
+ 1754  ls
+ 1755  vim Nav.js 
+ 1756  vim general.css 
+ 1757  vim Searx.js 
+ 1758  ls
+ 1759  vim general.css 
+ 1760  vim Wall.css 
+ 1761  clear
+ 1762  ls
+ 1763  vim general.css 
+ 1764  clear
+ 1765  ls
+ 1766  vim general.css 
+ 1767  clear
+ 1768  ls
+ 1769  vim SignOut.js 
+ 1770  vim SignUp.js 
+ 1771  clear
+ 1772  pwd
+ 1773  ls
+ 1774  cd ..
+ 1775  ls
+ 1776  pwd
+ 1777  cd ..
+ 1778  npm run build
+ 1779  clear
+ 1780  l
+ 1781  clear
+ 1782  pwd
+ 1783  ls
+ 1784  cd src/
+ 1785  ls
+ 1786  cd components/
+ 1787  vim general.css 
+ 1788  vim Wall.
+ 1789  vim Wall.css 
+ 1790  vim general.css 
+ 1791  clear
+ 1792  l
+ 1793  s
+ 1794  clear
+ 1795  ls
+ 1796  vim Home
+ 1797  vim Home.js 
+ 1798  clear
+ 1799  ls
+ 1800  vim Nav.js 
+ 1801  clear
+ 1802  ls
+ 1803  vim gener
+ 1804  vim general.css 
+ 1805  cd client/
+ 1806  npm start
+ 1807  clear
+ 1808  tmux kill-session
+ 1809  ls
+ 1810  clear
+ 1811  ssh pi@192.168.254.200
+ 1812  clear
+ 1813  ssh pi@192.168.254.200
+ 1814  sftp pi@192.168.254.200
+ 1815  clear
+ 1816  ssh pi@192.168.254.200
+ 1817  sftp pi@192.168.254.200
+ 1818  ssh pi@192.168.254.200
+ 1819  clear
+ 1820  ls
+ 1821  ssh pi@192.168.254.200
+ 1822  clear
+ 1823  ssh pi@192.168.254.200
+ 1824  tmux ls
+ 1825  clear
+ 1826  tmux
+ 1827  clear
+ 1828  ls
+ 1829  tmux attach-session
+ 1830  sftp pi@192.168.254.200
+ 1831  clear
+ 1832  ping 8.8.8.8
+ 1833  clear
+ 1834  ls
+ 1835  sftp pi@192.168.254.200
+ 1836  clea
+ 1837  sftp pi@192.168.254.200
+ 1838  ls
+ 1839  ssh pi@192.168.254.200
+ 1840  clear
+ 1841  ls
+ 1842  clear
+ 1843  ssh pi@192.168.254.200
+ 1844  clear
+ 1845  ls
+ 1846  clear
+ 1847  ssh pi@192.168.254.200
+ 1848  clear
+ 1849  ls
+ 1850  clear
+ 1851  ls
+ 1852  clear
+ 1853  ssh pi@192.168.254.200
+ 1854  clear
+ 1855  ssh pi@192.168.254.200
+ 1856  clear
+ 1857  ssh pi@192.168.254.200
+ 1858  clear
+ 1859  ssh pi@192.168.254.200
+ 1860  clear
+ 1861  ssh pi@192.168.254.200
+ 1862  clear
+ 1863  ls
+ 1864  clear
+ 1865  ls
+ 1866  clear
+ 1867  sshpi@192.168.200
+ 1868  ssh pi@192.168.200
+ 1869  clear
+ 1870  ssh pi@192.168.254.200
+ 1871  sudo apt-get update
+ 1872  clear
+ 1873  brew install nginx
+ 1874  clear
+ 1875  ls
+ 1876  clear
+ 1877  notepad
+ 1878  note
+ 1879  notes
+ 1880  Notes
+ 1881  clear
+ 1882  service nginx start
+ 1883  clear
+ 1884  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1885  curl http://127.0.0.1:8080
+ 1886  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1887  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1888  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1889  clear
+ 1890  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1891  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1892  cd /usr/local/Cellar/nginx/1.19.1/
+ 1893  ls
+ 1894  vim html
+ 1895  clear
+ 1896  ls
+ 1897  clear
+ 1898  ls
+ 1899  clear
+ 1900  ls
+ 1901  clear
+ 1902  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1903  clear
+ 1904  ls
+ 1905  clear
+ 1906  ls
+ 1907  clear
+ 1908  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist 
+ 1909  cd /usr/local/Cellar/nginx/1.19.1/
+ 1910  clear
+ 1911  ls
+ 1912  cd html
+ 1913  clear
+ 1914  ls
+ 1915  vim index.html 
+ 1916  vim home.html
+ 1917  clear
+ 1918  ssh pi@192.168.254.200
+ 1919  clear
+ 1920  ls
+ 1921  sftp pi@192.168.254.200
+ 1922  clear
+ 1923  ls
+ 1924  mv 070820\:1594269994.mp4 ~/Desktop/
+ 1925  clear
+ 1926  ls
+ 1927  clear
+ 1928  ssh pi@192.168.254.200
+ 1929  clear
+ 1930  pwd
+ 1931  ls
+ 1932  cd /usr/
+ 1933  cd ~
+ 1934  clear
+ 1935  ls
+ 1936  history
+ 1937  cd /usr/local/Cellar/nginx/1.19.1/
+ 1938  ls
+ 1939  clear
+ 1940  ls
+ 1941  cd html
+ 1942  ls
+ 1943  clear
+ 1944  ls
+ 1945  vim 50x.html 
+ 1946  vim home.html 
+ 1947  cp index.html 
+ 1948  ls
+ 1949  vim index.html 
+ 1950  sudo cp home.html index.html 
+ 1951  ls
+ 1952  vim index.html 
+ 1953  history
+ 1954  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist
+ 1955  clear
+ 1956  pwd
+ 1957  ls
+ 1958  vim index.html 
+ 1959  launchctl reload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist
+ 1960  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist
+ 1961  launchctl load /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist
+ 1962  clear
+ 1963  vim index.html 
+ 1964  clear
+ 1965  ls
+ 1966  launchctl unload /usr/local/Cellar/nginx/1.19.1/homebrew.mxcl.nginx.plist
+ 1967  clear
+ 1968  date
+ 1969  clear
+ 1970  ls
+ 1971  clear
+ 1972  ssh pi@192.168.254.200
+ 1973  ckear
+ 1974  history
+ 1975  clear
+ 1976  ls
+ 1977  clear
+ 1978  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1979  clear
+ 1980  ls
+ 1981  cd client/
+ 1982  clear
+ 1983  ls
+ 1984  tmux kill-session
+ 1985  tmux ls
+ 1986  tmux new-session -t s
+ 1987  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1988  clear
+ 1989  ssh -i ~/Downloads/college_builder.pem ubuntu@ec2-35-167-217-169.us-west-2.compute.amazonaws.com
+ 1990  ping 8.8.8.8
+ 1991  clear
+ 1992  ls
+ 1993  cd client/
+ 1994  clear
+ 1995  ls
+ 1996  pwd
+ 1997  ls
+ 1998  cd src/
+ 1999  ls
+ 2000  clear
+ 2001  ls
+ 2002  cd compo`
+ 2003  cd components/
+ 2004  l
+ 2005  vim Wall.js 
+ 2006  clear
+ 2007  ls
+ 2008  vim Home.js 
+ 2009  vim Search.js 
+ 2010  ls
+ 2011  clear
+ 2012  ls
+ 2013  vim feed.js 
+ 2014  ls
+ 2015  clear
+ 2016  ls
+ 2017  vim Nav.js 
+ 2018  clear
+ 2019  ls
+ 2020  vim Wall.js 
+ 2021  vim general.css 
+ 2022  clear
+ 2023  pwd
+ 2024  ls
+ 2025  cd ~/
+ 2026  clear
+ 2027  ls
+ 2028  cd client/
+ 2029  ls
+ 2030  celar
+ 2031  clear
+ 2032  ls
+ 2033  npm install jwt --save
+ 2034  clear
+ 2035  npm install axios --save
+ 2036  npm fund
+ 2037  cleat
+ 2038  cea
+ 2039  clear
+ 2040  ls
+ 2041  npm install jwt
+ 2042  clear
+ 2043  ls
+ 2044  vim package.json 
+ 2045  pwd
+ 2046  ls
+ 2047  cd src/
+ 2048  ls
+ 2049  clear
+ 2050  ls
+ 2051  cd App.js 
+ 2052  vim App.js 
+ 2053  clear
+ 2054  ls
+ 2055  cd ..
+ 2056  l
+ 2057  clear
+ 2058  ls
+ 2059  cd src/
+ 2060  ls
+ 2061  clear
+ 2062  pwd
+ 2063  cd ..
+ 2064  l
+ 2065  ls build/
+ 2066  vim build/index.html 
+ 2067  clear
+ 2068  ls
+ 2069  find index.html
+ 2070  find . index.html
+ 2071  ls
+ 2072  ls public/
+ 2073  clear
+ 2074  ls
+ 2075  ls config/
+ 2076  cd config/
+ 2077  clea
+ 2078  cleart
+ 2079  cleat
+ 2080  clear
+ 2081  ls
+ 2082  cd ..
+ 2083  ls
+ 2084  cd src/
+ 2085  clear
+ 2086  ls
+ 2087  clear
+ 2088  ls
+ 2089  pwd
+ 2090  clear
+ 2091  ls
+ 2092  cd components/
+ 2093  ls
+ 2094  clear
+ 2095  ls
+ 2096  vim GoogleMaps.js 
+ 2097  clear
+ 2098  ls
+ 2099  cd ..
+ 2100  l
+ 2101  vim index.js 
+ 2102  clear
+ 2103  ls
+ 2104  vim App.js 
+ 2105  clear
+ 2106  ls
+ 2107  cd ..
+ 2108  l
+ 2109  clear
+ 2110  ls
+ 2111  clear
+ 2112  ls
+ 2113  clear
+ 2114  ls
+ 2115  pwd
+ 2116  npm run build
+ 2117  clear
+ 2118  ls
+ 2119  cp -r build ~/college_builder/starter_code/
+ 2120  clear
+ 2121  ls
+ 2122  pwd
+ 2123  npm run build
+ 2124  clear
+ 2125  ls
+ 2126  sudo cp -r build ~/college_builder/starter_code/
+ 2127  clear
+ 2128  ls
+ 2129  pwd
+ 2130  npm run build
+ 2131  clear
+ 2132  ls
+ 2133  clear
+ 2134  ls
+ 2135  npm eun build
+ 2136  npm run build
+ 2137  ls
+ 2138  clear
+ 2139  ls
+ 2140  cp -r ~/college_builder/starter_code/
+ 2141  clear
+ 2142  ls
+ 2143  cp -r build ~/college_builder/starter_code/
+ 2144  clear
+ 2145  pwd
+ 2146  ls
+ 2147  npm run build
+ 2148  clear
+ 2149  ls
+ 2150  clearj
+ 2151  clear
+ 2152  ls
+ 2153  pwd
+ 2154  ls
+ 2155  cp -r build ~/college_builder/starter_code/
+ 2156  clear
+ 2157  ls
+ 2158  pwd
+ 2159  npm run build
+ 2160  clear
+ 2161  ls
+ 2162  cp 0r build ~/college_builder/starter_code/
+ 2163  cp -r build ~/college_builder/starter_code/
+ 2164  clear
+ 2165  history
+ 2166  l
+ 2167  clear
+ 2168  ls
+ 2169  history > h.txt

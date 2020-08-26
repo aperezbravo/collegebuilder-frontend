@@ -1,0 +1,44 @@
+body {
+    background-image: url("web_appll.jpg");
+}
+
+.search_bar {
+  float: right;
+  padding: 0 50px;
+  border-style: none;
+}
+
+input[type=text] {
+    /*
+    changes the inside color of the input box
+    background-color: rgb(1, 50, 35);
+    removes the white border that appears when you change the color of the inside
+    border-style: none;
+    */
+    color: black;
+    border-radius: 25px;
+    font-family: HelveticaNeue;
+    /*
+    width determines the length of the input text box
+    */
+    width: 66%;
+    height: 25px;
+    font-size: 20px;
+    
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.logo {
+    float: left;
+}
+
+.google_button {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    right: 50%;
+    bottom: 70%;
+}
