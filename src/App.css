@@ -21,7 +21,8 @@ input[type=text] {
     /*
     width determines the length of the input text box
     */
-    width: 66%;
+    /*width: 66%;*/
+    width: 233px;
     height: 25px;
     font-size: 20px;
     

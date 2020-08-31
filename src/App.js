@@ -7,6 +7,7 @@ import Nav from './components/Nav';
 import SignUp from './components/SignUp';
 import Home from './components/Home';
 import GoogleMaps from './components/GoogleMaps';
+import SimpleMap from  './components/rmap'
 import SignOut from './components/SignOut';
 //import Search from './components/Search';
 //import Searx from './components/Searx';
@@ -34,6 +35,8 @@ function App() {
         <Route path="/signup" exact component={SignUp} />
         <Route path="/logout" exact component={SignOut} />
         <Route path="/Wall/:id" component={Wall} />
+        <Route path="/schools" component={GoogleMaps} />
+        <Route path="/map" component={SimpleMap} />
       </Switch>
     </div>
     </HashRouter>

@@ -16,6 +16,7 @@ class Searx extends Component {
       mainText: ''
     };
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.getLnl = this.getLnl.bind(this);
   }
 
   handleChange = address => {
@@ -50,6 +51,8 @@ class Searx extends Component {
     event.preventDefault();
     //console.log(this.state.address);
     //this.props.history.push('/Wall/'+this.state.address);
+    //alert(this.props.location)
+    //this.getLnl();
     const sc = this.state.address;
     //console.log(sc);
     console.log(this.state.mainText);
@@ -77,7 +80,8 @@ class Searx extends Component {
         pathname: '/Wall/'+this.state.address,
         state: { 
           add: this.state.mainText,
-          school: sc 
+          school: sc,
+          changed: true
         }
       })
     }//else
@@ -88,6 +92,23 @@ class Searx extends Component {
     //this.props.history.push("/Wall");
     console.log('handle submit searx');
     }
+
+    getLnl = () => {
+      if(this.props.location === undefined) {
+        console.log('undefined');
+        return;
+      } else {
+        const xhr = new XMLHttpRequest();
+        xhr.responseType = 'json';
+        xhr.open('GET', 'https://maps.googleapis.com/maps/api/geocode/json?address='+this.props.state.add+'&key=AIzaSyA0lNVQ6YdsSdHAJcRIINwagwrOjj_qk70');
+        xhr.onload = () => {
+          let loca = xhr.response.results[0].geometry;
+          console.log(loca);
+          alert(loca);
+        }//onload
+     }//else
+
+    }//getLnl
 
     render() {
       return (
@@ -101,7 +122,7 @@ class Searx extends Component {
         >
         {({ getInputProps, suggestions, getSuggestionItemProps, loading }) => (
           <div>
-          <input {...getInputProps({ placeholder: 'Search Schools...',})}></input>
+          <input className="searx_bar" {...getInputProps({ placeholder: 'Search Schools...',})}></input>
           <button onClick={this.handleSubmit} className="search_button">submit</button> 
           <div className="autocomplete-dropdown-container">
           {loading && <div>Loading...</div>}

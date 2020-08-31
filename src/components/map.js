@@ -9,37 +9,17 @@ export class MapContainer extends Component {
         lat: '-1.2884',
         lng: '36.8233'
       }
-      this.getLnl = this.getLnl.bind(this);
-  }
-
-  static getDerivedStateFromProps(props, state) {
-    //this.getLnl(); 
-    console.log(props);
-    console.log(state);
-  }
-
-  getLnl = () => {
-    const xhr = new XMLHttpRequest();
-    xhr.responseType = 'json';
-    xhr.open('GET', 'https://maps.googleapis.com/maps/api/geocode/json?address='+this.props.school+'&key=AIzaSyA0lNVQ6YdsSdHAJcRIINwagwrOjj_qk70');
-    xhr.onload = () => {
-      let location = xhr.response.results[0].geometry
-      console.log(location);
-    }
-    xhr.send(null);
-    return;
   }
 
   render() {
-      console.log(this.props);
       return (
         <Map 
           style={mapStyles}
           google={this.props.google} 
           zoom={14}
           initialCenter={{
-            lat: this.state.lat,
-            lng: this.state.lng 
+            lat: -1.2884,
+            lng: 36.8233 
           }}
         >
 
@@ -60,5 +40,5 @@ const mapStyles = {
 };
 
 export default GoogleApiWrapper({
-  apiKey: ("AIzaSyC-WJb5hU-IWguo8KJiC8tb03OcIfN7Vjw")
+  apiKey: ("AIzaSyC-WJb5hU-IWguo8KJiC8tb03OcIfN7Vjw"),
 })(MapContainer)

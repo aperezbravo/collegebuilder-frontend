@@ -18,9 +18,15 @@
 .center {
 }
 
+.searx_bar {
+
+}
+
 .search_button {
     /*width: 57px;*/
-    width: 22%;
+    /*width: 22%;*/
+    /*keeps search button from collapsing when the window is small*/
+    width: 57px;
     height: 25px;
     border-radius: 10px;
 }

@@ -4,9 +4,24 @@
   flex-direction: column;
   background-color: #001118;
   background-image: url("../web_appll.jpg");
-  /*manipulates the div that contains the messages, gives enough room for the map and title to render*/
+  /*width: 70%;*/
+  /*max-width: 70%;*/
+  /*manipulates the div that contains the messages.*/
   margin-top: 67%;
   min-height: 80rem;
+}
+
+.buffer {
+  margin-top: 44%;
+}
+
+.comment_buffer {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.comment_section {
+  height: 50px; 
 }
 
 .body {
@@ -32,16 +47,22 @@
 
 .tweet-body {
   display: flex;
-  width: 47%;
+  /*manipulates the div that contains the messages.*/
+  max-width: 400px;
+  min-width: 133px;
+  /*margin keeps the divs centered when resizing window*/
+  margin-left: 33%;
+  margin-right: 33%;
   height: 60%;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
   word-wrap: break-word;
   background-color: #15202a;
 }
 
+/*not needed*/
 .serch_button {
   border-radius: 15px;
-  background-color: red;
+  color: red;
   width: 200px;
   height: 100px;
 }
@@ -97,7 +118,8 @@
   /*keeps text from message inside div*/
   /*width: ~300px */
   width: 94%;
-  height: 88px;
+  /*max-width: 300px;*/
+  /*height: 88px;*/
   font-family: HelveticaNeue;
   font-size: 14px;
   font-weight: 300;
@@ -105,8 +127,15 @@
   font-stretch: normal;
   line-height: normal;
   letter-spacing: -0.6px;
-  word-wrap: break-word;
+  /*word-wrap: break-word;*/
+  /*wraps text in div actively for short strings*/
+  text-overflow: ellipsis;
+  /*helps keep long strings in the div*/
+  max-width: 570px;
+  /*overflow: break-word;*/
   color: #ffffff;
+  /*cuts down and wraps long strings in to the div*/
+  word-wrap: anywhere;
 }
 
 .school_title {

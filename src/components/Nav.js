@@ -42,6 +42,9 @@ handler(value) {
                 <Link to="/schools">
                   <li>SCHOOLS NEAR ME</li>
                 </Link>
+                <Link to="/map">
+                  <li>MAP</li>
+                </Link>
                 <Link to="/Wall/:id">
                 </Link>
               </ul>

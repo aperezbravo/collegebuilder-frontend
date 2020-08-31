@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import { withRouter } from 'react-router-dom';
 import { TweetBody } from './tweet.js';
-//import GoogleMaps from './GoogleMaps';
+import GoogleMaps from './GoogleMaps';
+import SimpleMap from './rmap';
 //import {PullToRefresh, PullDownContent, ReleaseContent, RefreshContent} from "react-js-pull-to-refresh";
 import './Wall.css';
 import Nav from './Nav';
@@ -26,7 +27,7 @@ class Wall extends Component {
     this.handleRefresh = this.handleRefresh.bind(this);
     this.handleChange = this.handleChange.bind(this);
     this.getUser = this.getUser.bind(this)
-    //this.getLnl = this.getLnl.bind(this);
+    this.getLnl = this.getLnl.bind(this);
   }
 
   handleRefresh() {
@@ -59,8 +60,8 @@ class Wall extends Component {
     } else {
     const xhr = new XMLHttpRequest();
     //commment out for build
-    xhr.open("POST", '/comment/'+ this.props.match.params.id);
-    //xhr.open('POST', 'http://collegebuilder.me/comment/'+this.props.match.params.id);
+    //xhr.open("POST", '/comment/'+ this.props.match.params.id);
+    xhr.open('POST', 'https://collegebuilder.me/comment/'+this.props.match.params.id);
     xhr.setRequestHeader('Content-Type', 'text/plain');
     xhr.onload = function(props) {
       console.log(xhr.status);
@@ -94,36 +95,38 @@ class Wall extends Component {
   //}
 
   componentDidMount() {
-    console.log("component will mount")
+    //console.log("component will mount")
     //this.mounted = true;
-    console.log(this.state.ready_state);
+    //console.log(this.state.ready_state);
+    //console.log(this.props.location.state.add);
     this.getUser();
-    console.log(this.state.ready_state);
+    //console.log(this.state.ready_state);
     //this.setState({ ready_state: true});
-    //this.getLnl();
+    this.getLnl();
     //console.log(this.props.match.params.id);
     //this.getUser(this.props.match.params.id);
     //this.props.match.params.id;
   }
 
-  /*getLnl = () => {
+  getLnl = () => {
     const xhr = new XMLHttpRequest();
     xhr.responseType = 'json';
     xhr.open('GET', 'https://maps.googleapis.com/maps/api/geocode/json?address='+this.props.match.params.id+'&key=AIzaSyA0lNVQ6YdsSdHAJcRIINwagwrOjj_qk70', true);
     xhr.onload = () => {
-      //console.log(xhr.response.results[0].geometry.location.lat); 
+      console.log(xhr.response.results[0].geometry.location); 
       let location = xhr.response.results[0].geometry.location;
-      this.setState({ lat: location.lat });
-      this.setState({ lng: location.lng });
+      this.setState({ lat: location.lat, lng: location.lng });
+      //this.setState({ lng: location.lng });
     }
     xhr.send(null);
     return;
-  }*/
+  }
 
   getUser = () => {
     console.log('get user');
+    console.log(this.props.location.state);
     this.setState({ ready_state: true});
-    console.log(this.state.ready_state);
+    //console.log(this.state.ready_state);
     //console.log(this.props.match.params.id);
     /*const xhr = new XMLHttpRequest();
     xhr.open('POST', '/test');
@@ -137,12 +140,12 @@ class Wall extends Component {
     //fetch('http://collegebuilder.me/comments/California State University Chico')
     //fetch('http://collegebuilder.me/comments/' + this.props.match.params.id)
     //console.log(this.props.location.state.school);
-    console.log(this.props.match.params.id);
+    //console.log(this.props.match.params.id);
     //fetch('http://collegebuilder.me/comments/'+this.props.location.state.school)
     fetch('https://collegebuilder.me/comments/'+this.props.match.params.id)
     .then(response => {
       if(response.ok) {
-        console.log("retrieving comments from api");
+        //console.log("retrieving comments from api");
         //console.log(this.props.location.state.school);
         //this.handleStuff();
         return response.json();
@@ -179,7 +182,8 @@ class Wall extends Component {
       <div className="school_title">
         <h2>{this.props.match.params.id}</h2>
       </div>
-      i<div className="main-body">
+      <SimpleMap school={this.props.match.params.id} lat={this.state.lat} lng={this.state.lng}/>
+      i<div className="buffer">
         {[...this.state.users].map((user, index) => {
           //let username = `${user.name.first} ${user.name.last}`
           //console.log(user.username);
@@ -190,20 +194,18 @@ class Wall extends Component {
           let comment = user.comment;
           return(
 
-            <div className="">
               <TweetBody 
-                key={comment}
+                key={comment+username}
                 username={username}
                 name={username}
                 handle={handle}
                 comment={comment}
               />
-            </div>
           )
         })}      
       </div>
       <form className="tweet-body" onSubmit={this.handleSubmit} >
-              <label>
+              <label className="comment_buffer">
                 comment:
               </label>
               <br/>
